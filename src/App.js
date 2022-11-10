@@ -1,7 +1,10 @@
+import Homepage from "./Pages/Homepage/Homepage";
+import "./app.css";
+
 function App() {
   return (
     <div className="App">
-      <h1>Hello React!</h1>
+      <Homepage />
     </div>
   );
 }

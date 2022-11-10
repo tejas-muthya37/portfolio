@@ -1,0 +1,21 @@
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #383838;
+    color: white;
+}
+
+.hero-description {
+    font-size: 3rem;
+    width: 60%;
+    line-height: 4rem;
+}
+
+.saffron {
+    color: #FF9933;
+}
+
+.green {
+    color: #32C232;
+}
